@@ -1,1 +1,1 @@
-answers in c++ primer 6th edition excercises.
+answers in c++ primer 6th edition exercises.

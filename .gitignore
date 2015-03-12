@@ -1,2 +1,3 @@
+#ignore .out and .swp temporary flies
 *.out
 *.swp
